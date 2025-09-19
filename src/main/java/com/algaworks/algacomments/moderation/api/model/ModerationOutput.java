@@ -1,4 +1,4 @@
-package api.model;
+package com.algaworks.algacomments.moderation.api.model;
 
 
 import lombok.Builder;
